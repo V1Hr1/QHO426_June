@@ -1,4 +1,4 @@
-hear=input("What did I here?")
+hear=input("What did I hear?")
 see=input("What did I see?")
 
 if hear.lower() == "grrr" and see.lower() == "two red eyes":
